@@ -8,8 +8,6 @@ Opis projektu (zadania):
 ~ Używając semaforów i traktując ruch samochodów w obu kierunkach jako dwa procesy (zadania) napisać w pseudokodzie program współbieżny rozwiązujący problem synchronizacji przejazdu samochodów przez most. 
 
 
-https://pp.userapi.com/c851420/v851420223/a1313/HhG7Sn4nCAw.jpg
-
 
 Treść
 1-	Rozwiazanie problemu metodą semaforów
@@ -25,7 +23,7 @@ Rozwiazanie problemu metodą semaforów
 Semafory:
 A – semafor (1)  (1, ø)
 B – semafor (2) (0, ø)
-
+![alt text](https://pp.userapi.com/c851420/v851420223/a1313/HhG7Sn4nCAw.jpg)
  
 Strona a:
 wait(A); - czekamy na przejazd ze strony  b
@@ -53,7 +51,7 @@ a - liczba samochodów po lewej stronie
 b - liczba samochodów po prawej stronie 
 c – semafor (zmienna) dostępu mosta (dostępny jeżeli równy się 0) (0,0)
 d– samochódy co przejezdzają most
- 
+ ![alt text](https://pp.userapi.com/c851420/v851420223/a1313/HhG7Sn4nCAw.jpg)
 ~ Będziemy przepuszczac po 10 samoshodów z jednej strony
 i zaczniemy ze strony a 
 Pseudokod:
@@ -65,12 +63,6 @@ a =0;)
 (2: Jezeli: a >10 to przepusczamy tylko 10 i (d = 10)
 a = a-10;) 
 } else (break)
-
-
-
-
-
-
 c = 0; otwieramy dostęp do semaforu  (mosta)
 Jezeli if ( b>0 i c=0 ) po stronie b też są samochody przepuszczamy
 {
@@ -90,7 +82,7 @@ a - liczba samochodów po lewej stronie
 b - liczba samochodów po prawej stronie 
 c – semafor (zmienna) dostepu mosta (dostępny jezeli rowny sie 0) (0,0)
 d– samochódy co przejezdzają most
- 
+ ![alt text](https://pp.userapi.com/c851420/v851420223/a1313/HhG7Sn4nCAw.jpg)
 ~ Będziemy przepuszczac wszystkie samochódy z kazdej strony , znowu zaczynamy ze strony a
 Pseudokod:
 Jeżeli if ( a>0 i c=0 ) po stronie a jest samochódy zaczynamy przepuszcać
