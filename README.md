@@ -1,4 +1,4 @@
-# Synchronization (Solution) of passage over 1-band the bridge - realisation in Java with semafors.
+# Synchronization (Solution) of passage over 1-band the bridge - realisation in Java with semaphores.
 Projekt wykorzystania semaforow do symulacji przejazdu przez waski most Realizacja w Java.
 
 
