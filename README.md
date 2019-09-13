@@ -1,4 +1,5 @@
-# Projekt-wykorzystania-semafor-w-do-symulacji-przejazdu-przez-w-ski-most-Realizacja-w-Java-
+# Synchronization (Solution) of passage over 1-band the bridge - realisation in Java with semafors.
+Projekt wykorzystania semaforow do symulacji przejazdu przez waski most Realizacja w Java.
 
 
 Opis projektu (zadania):
