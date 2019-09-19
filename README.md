@@ -1,6 +1,8 @@
 # Synchronization (Solution) of passage over 1-band the bridge - realisation in Java with semaphores.
 Projekt wykorzystania semaforow do symulacji przejazdu przez waski most Realizacja w Java.
 
+# LOG PROGRAM : log(pl).txt and log(en).txt
+
 
 Opis projektu (zadania):
  ~ Na drodze wschód – zachód znajduje się wąski most, po którym w danej chwili mogą jechać samochody tylko w jednym kierunku. 
