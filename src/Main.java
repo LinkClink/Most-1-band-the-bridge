@@ -44,11 +44,8 @@ public class Main
             {
                 generacja_mosta("b");
             }
-
         }
-
     }
-
 
     ////////////
     public static void generacja_samochodow()
@@ -172,9 +169,6 @@ public class Main
 ///////////////
 
 
-
-
-
     //////////////////
     public static void procent_po_stronam_na_moscie()
     {
@@ -218,28 +212,19 @@ public class Main
                 break;
             }
 
-
         }
-
-
-
-
     }
 ////////////////////////
 
 
-
-
-
-
     public static void generacja_mosta(String strona)
     {
-        System.out.print("Pszejazd sam. ze strony " + strona + "\n" );
+        System.out.print("Przejazd sam. ze strony " + strona + "\n" );
         System.out.print(samoch_na_moscie_a + " somochodow ze strony " + strona + "\n" );
 
         for(int i = 0; i < samoch_na_moscie_a; i++)
         {
-            System.out.print(i+" Pszejazd \n");
+            System.out.print(i+" Przejazd \n");
             try
             {
                 TimeUnit.MILLISECONDS.sleep(30);
@@ -254,15 +239,5 @@ public class Main
         System.out.print("\n strona a "+strona_a +"\n");
 
     }
-
-
-
-
-
-
-
-
-
-
 
 }
