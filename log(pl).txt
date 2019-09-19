@@ -1,0 +1,81 @@
+Po lewej stronie a 38
+Po prawej stronie b 9
+
+Po stronie a wiecej samochodow a > b 
+Przejazd sam. ze strony a
+29 somochodow ze strony a
+0 Przejazd 
+1 Przejazd 
+2 Przejazd 
+3 Przejazd 
+4 Przejazd 
+5 Przejazd 
+6 Przejazd 
+7 Przejazd 
+8 Przejazd 
+9 Przejazd 
+10 Przejazd 
+11 Przejazd 
+12 Przejazd 
+13 Przejazd 
+14 Przejazd 
+15 Przejazd 
+16 Przejazd 
+17 Przejazd 
+18 Przejazd 
+19 Przejazd 
+20 Przejazd 
+21 Przejazd 
+22 Przejazd 
+23 Przejazd 
+24 Przejazd 
+25 Przejazd 
+26 Przejazd 
+27 Przejazd 
+28 Przejazd 
+
+ strona b 9
+
+ strona a 9
+
+Jednakowa ilosc z kazdej strony a = b 
+Przejazd sam. ze strony b
+9 somochodow ze strony b
+0 Przejazd 
+1 Przejazd 
+2 Przejazd 
+3 Przejazd 
+4 Przejazd 
+5 Przejazd 
+6 Przejazd 
+7 Przejazd 
+8 Przejazd 
+
+ strona b 0
+
+ strona a 9
+Przejazd sam. ze strony a
+9 somochodow ze strony a
+0 Przejazd 
+1 Przejazd 
+2 Przejazd 
+3 Przejazd 
+4 Przejazd 
+5 Przejazd 
+6 Przejazd 
+7 Przejazd 
+8 Przejazd 
+
+ strona b 0
+
+ strona a 0
+
+Jednakowa ilosc z kazdej strony a = b 
+Przejazd sam. ze strony b
+0 somochodow ze strony b
+
+ strona b 0
+
+ strona a 0
+
+Process finished with exit code 0

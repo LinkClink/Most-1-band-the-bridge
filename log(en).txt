@@ -1,0 +1,81 @@
+On the left a 38
+On the right side b 9
+
+On the side a more cars a> b
+ride alone. on the part of a
+29 cars from page a
+0 ride
+1 ride
+2 ride
+3 ride
+4 ride
+5 ride
+6 ride
+7 ride
+8 ride
+9 ride
+10 ride
+11 ride
+12 ride
+13 ride
+14 ride
+15 ride
+16 ride
+17 ride
+18 ride
+19 ride
+20 ride
+21 ride
+22 ride
+23 ride
+24 ride
+25 ride
+26 ride
+27 ride
+28 ride
+
+  page b 9
+
+  page a 9
+
+The same amount on each side a = b
+ride alone. on the part of b
+9 cars from b
+0 ride
+1 ride
+2 ride
+3 ride
+4 ride
+5 ride
+6 ride
+7 ride
+8 ride
+
+  page b 0
+
+  page a 9
+ride alone. on the part of a
+9 cars from page a
+0 ride
+1 ride
+2 ride
+3 ride
+4 ride
+5 ride
+6 ride
+7 ride
+8 ride
+
+  page b 0
+
+  page a 0
+
+The same amount on each side a = b
+ride alone. on the part of b
+0 cars from b
+
+  page b 0
+
+  page a 0
+
+Process finished with exit code 0
